@@ -2,11 +2,6 @@
 
 A fast and efficient file compression utility implementing the Huffman coding algorithm in C++. This command-line tool can compress and decompress any file type while providing real-time progress tracking.
 
-## Authors
-
-- **Moamen Eslam** 
-- **Karim Amr** 
-
 ## Features
 
 - **Universal Compression**: Works with any file type (text, images, executables, etc.)
@@ -138,14 +133,6 @@ The program handles various error conditions:
 - Insufficient memory for buffers
 - Corrupted compressed files
 - Invalid command-line arguments
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## License
-
-This project is created for educational purposes as part of the ECE2103 course.
 
 ## Acknowledgments
 
