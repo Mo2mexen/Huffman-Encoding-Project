@@ -139,11 +139,4 @@ The program handles various error conditions:
 - AI assistance was used for specific implementation details (bit manipulation and binary I/O operations)
 - Huffman coding algorithm originally developed by David A. Huffman in 1952
 
-## Contact
-
-For questions or issues, please contact:
-- Moamen Eslam 
-
----
-
 **Note**: This tool is designed for educational purposes to demonstrate the Huffman compression algorithm. For production use, consider established compression libraries like zlib or LZMA.
